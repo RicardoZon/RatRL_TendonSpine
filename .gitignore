@@ -1,0 +1,22 @@
+# Pycharm
+.idea
+
+# For training
+Local_Data
+Local_Rat_Tensorboard
+Local_Logs
+
+Local_Runs
+
+Outputs
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Debug
+MUJOCO_LOG.TXT
